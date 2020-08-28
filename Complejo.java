@@ -1,5 +1,5 @@
-iimport java.util.Scanner;
-
+import java.util.Scanner;
+import java.util.InputMismatchException;
 public class Complejo {
   private float real;
   private float imag;
